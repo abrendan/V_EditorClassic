@@ -13,7 +13,7 @@ This is a simple pre-Windows 11 notepad clone written in .NET 2.0. To use this p
 
 I tested these OSs with V_EditorPro. Everything in between should be working too.
 
-- Windows 11 - 7 (Automatic Install of .NET 2.0 if using the installer)
+- Windows 11 - 7 (Automatic Install of .NET 2.0)
 - Windows XP (Manual installation of .NET 2.0 is needed and only the portable version works)
 - Windows 98 (Manual installation of Microsoft Windows Installer 2.0, Microsoft Internet Explorer 5.01, .NET 2.0 for Windows 98 is needed and only the portable version works)
 
