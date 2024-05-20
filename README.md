@@ -46,4 +46,6 @@ Windows 95 should work too if using MattKC's dotnet9x backport project for .NET 
 ## To be done
 
 - Dark Mode
+- Linux Port
+- MacOS Port
 - More
