@@ -29,7 +29,7 @@
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(166, 24);
             this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "V_EditorPro v2.0";
+            this.lblTitle.Text = "V_EditorPro v2.1";
             // 
             // lblDescription
             // 

@@ -49,6 +49,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -323,20 +331,6 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_7AB46DF4DE8A45C9AD18B1E75B31BD5A"
-            {
-            "Name" = "8:V_EditorPro"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_433412BD0F96417DB9BE22E5DD991AE1"
-            "Folder" = "8:_7889F91DC30B47149BBBCB25012BE3B7"
-            "WorkingFolder" = "8:_146B2BEF181E4230AA2865B4D9D00C18"
-            "Icon" = "8:_8F3BD8BE27674E97A7D22EB318FFBE9F"
-            "Feature" = "8:"
-            }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E606CD82204C4BA48AD5604FDA1334F3"
             {
             "Name" = "8:V_EditorPro"
@@ -752,7 +746,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_433412BD0F96417DB9BE22E5DD991AE1"
             {
-            "SourcePath" = "8:..\\V_EditorPro\\obj\\Release\\V_EditorPro.exe"
+            "SourcePath" = "8:"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_146B2BEF181E4230AA2865B4D9D00C18"
