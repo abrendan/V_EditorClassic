@@ -45,6 +45,11 @@ namespace V_EditorPro
         {
             Application.Exit();
         }
+        private void searchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SearchForm searchForm = new SearchForm(textBox1);
+            searchForm.ShowDialog();
+        }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
