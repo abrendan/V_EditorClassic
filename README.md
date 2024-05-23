@@ -1,4 +1,4 @@
-# V_EditorPro
+# V_EditorClassic
 
 This is a simple pre-Windows 11 notepad clone written in .NET 2.0. To use this program, you need to have .NET 2.0 installed.
 
@@ -11,7 +11,7 @@ This is a simple pre-Windows 11 notepad clone written in .NET 2.0. To use this p
 
 ### Operating System Support
 
-I tested these OSs with V_EditorPro. Everything in between should be working too.
+I tested these OSs with V_EditorClassic. Everything in between should be working too.
 
 - Windows 11 - 7 (Automatic Install of .NET 2.0)
 - Windows XP (Manual installation of .NET 2.0 is needed and only the portable version works)
