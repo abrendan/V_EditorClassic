@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_433412BD0F96417DB9BE22E5DD991AE1"
+        "MsmKey" = "8:_7EADF2DE0AB9446AAC75A24AE77E9634"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -28,7 +28,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_433412BD0F96417DB9BE22E5DD991AE1"
+        "OwnerKey" = "8:_7EADF2DE0AB9446AAC75A24AE77E9634"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -71,7 +71,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\V_EditorProSetup.msi"
+        "OutputFilename" = "8:Release\\V_EditorClassicSetup.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -217,20 +217,20 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:V_EditorPro"
-        "ProductCode" = "8:{129C02D1-1255-4378-B6FC-D5B9B5A9E78F}"
-        "PackageCode" = "8:{B79AA558-8188-46E8-BA03-D1F98A2A1F90}"
+        "ProductName" = "8:V_EditorClassic"
+        "ProductCode" = "8:{7C38CF9A-3F46-41D9-8483-7E10A2606037}"
+        "PackageCode" = "8:{B576D445-33BF-4E9A-9A07-C0DCF7C267B6}"
         "UpgradeCode" = "8:{A4080D60-DC0D-41DC-A385-5437B98B756E}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.0"
+        "ProductVersion" = "8:2.2"
         "Manufacturer" = "8:abrendan"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:V_EditorPro"
+        "Title" = "8:V_EditorClassic"
         "Subject" = "8:"
         "ARPCONTACT" = "8:abrendan"
         "Keywords" = "8:"
@@ -339,7 +339,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E606CD82204C4BA48AD5604FDA1334F3"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4404CCB58E9A456F8D5D8507C449E3C2"
             {
             "Name" = "8:V_EditorClassic"
             "Arguments" = "8:"
@@ -347,7 +347,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_433412BD0F96417DB9BE22E5DD991AE1"
+            "Target" = "8:_7EADF2DE0AB9446AAC75A24AE77E9634"
             "Folder" = "8:_7CFC694421A145F9B62D279A110FCC2A"
             "WorkingFolder" = "8:_146B2BEF181E4230AA2865B4D9D00C18"
             "Icon" = "8:_8F3BD8BE27674E97A7D22EB318FFBE9F"
@@ -752,9 +752,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_433412BD0F96417DB9BE22E5DD991AE1"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7EADF2DE0AB9446AAC75A24AE77E9634"
             {
-            "SourcePath" = "8:..\\V_EditorPro\\obj\\Debug\\V_EditorClassic.exe"
+            "SourcePath" = "8:..\\V_EditorPro\\obj\\Release\\V_EditorClassic.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_146B2BEF181E4230AA2865B4D9D00C18"
