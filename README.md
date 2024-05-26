@@ -24,7 +24,7 @@ Windows 95 should work too if using MattKC's dotnet9x backport project for .NET 
 
 - Windows 11:
 
-![grafik](https://github.com/abrendan/V_EditorPro/assets/94894839/c0dfbcea-d527-4439-85c8-5a7a7001219c)
+![grafik](https://github.com/abrendan/V_EditorClassic/assets/94894839/a751f426-0ca0-413a-b49f-16837148fd49)
 
 - Windows 10:
 
