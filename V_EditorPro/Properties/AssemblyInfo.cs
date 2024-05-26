@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("V_EditorPro")]
+[assembly: AssemblyTitle("V_EditorClassic")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("abrendan")]
-[assembly: AssemblyProduct("V_EditorPro")]
+[assembly: AssemblyProduct("V_EditorClassic")]
 [assembly: AssemblyCopyright("Copyright ©  2024 abrendan")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Sie können alle Werte angeben oder Standardwerte für die Build- und Revisionsnummern verwenden,
 // indem Sie "*" wie unten gezeigt eingeben:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.1")]
-[assembly: AssemblyFileVersion("2.1")]
+[assembly: AssemblyVersion("2.2")]
+[assembly: AssemblyFileVersion("2.2")]

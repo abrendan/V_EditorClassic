@@ -1,7 +1,7 @@
 ﻿using System;
-using V_EditorPro.Properties;
+using V_EditorClassic.Properties;
 
-namespace V_EditorPro
+namespace V_EditorClassic
 {
     partial class Form1
     {
@@ -147,7 +147,7 @@ namespace V_EditorPro
             this.KeyPreview = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "V_EditorPro";
+            this.Text = "V_EditorClassic";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.menuStrip1.ResumeLayout(false);

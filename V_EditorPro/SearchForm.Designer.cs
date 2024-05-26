@@ -1,4 +1,4 @@
-﻿namespace V_EditorPro
+﻿namespace V_EditorClassic
 {
     partial class SearchForm
     {

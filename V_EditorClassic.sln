@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_EditorPro", "V_EditorPro\V_EditorPro.csproj", "{D8570C44-BE35-49E4-AD65-65153BCACB16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_EditorClassic", "V_EditorPro\V_EditorClassic.csproj", "{D8570C44-BE35-49E4-AD65-65153BCACB16}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "V_EditorProSetup", "V_EditorProSetup\V_EditorProSetup.vdproj", "{16C26427-D0EB-4789-B653-FBBB8983AEC0}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "V_EditorClassicSetup", "V_EditorProSetup\V_EditorProSetup.vdproj", "{16C26427-D0EB-4789-B653-FBBB8983AEC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace V_EditorPro
+namespace V_EditorClassic
 {
     public partial class SearchForm : Form
     {

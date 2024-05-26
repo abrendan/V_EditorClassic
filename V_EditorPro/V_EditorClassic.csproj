@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D8570C44-BE35-49E4-AD65-65153BCACB16}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>V_EditorPro</RootNamespace>
-    <AssemblyName>V_EditorPro</AssemblyName>
+    <RootNamespace>V_EditorClassic</RootNamespace>
+    <AssemblyName>V_EditorClassic</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -104,6 +104,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

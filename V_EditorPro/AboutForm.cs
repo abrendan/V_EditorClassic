@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using Microsoft.Win32;
 
-namespace V_EditorPro
+namespace V_EditorClassic
 {
     public partial class AboutForm : Form
     {

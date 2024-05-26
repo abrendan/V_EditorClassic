@@ -1,4 +1,4 @@
-﻿namespace V_EditorPro
+﻿namespace V_EditorClassic
 {
     partial class AboutForm
     {
@@ -29,7 +29,7 @@
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(166, 24);
             this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "V_EditorPro v2.1";
+            this.lblTitle.Text = "V_EditorClassic v2.2";
             // 
             // lblDescription
             // 
@@ -37,7 +37,7 @@
             this.lblDescription.Name = "lblDescription";
             this.lblDescription.Size = new System.Drawing.Size(460, 30);
             this.lblDescription.TabIndex = 1;
-            this.lblDescription.Text = "This program is written with .NET 2.0 and called V_EditorPro because of the KPOP idol V aka. Kim Tae-hyung " +
+            this.lblDescription.Text = "This program is written with .NET 2.0 and called V_EditorClassic because of the KPOP idol V aka. Kim Tae-hyung " +
     "of BTS.";
             // 
             // lblOS
@@ -73,7 +73,7 @@
             this.MinimizeBox = false;
             this.Name = "AboutForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "About V_EditorPro";
+            this.Text = "About V_EditorClassic";
             this.Load += new System.EventHandler(this.AboutForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
