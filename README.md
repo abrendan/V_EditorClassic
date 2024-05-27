@@ -45,7 +45,11 @@ Windows 95 should work too if using MattKC's dotnet9x backport project for .NET 
 
 ## To be done
 
-- Dark Mode
-- Linux Port
-- MacOS Port
-- More
+- ~~Dark Mode~~
+- ~~Linux Port~~
+- ~~MacOS Port~~
+- ~~More~~
+
+All planned updates will be published in my more modern V_EditorPro application.
+
+Visit V_EditorPro here: https://github.com/abrendan/V_EditorPro
