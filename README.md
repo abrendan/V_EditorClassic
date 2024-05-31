@@ -1,6 +1,7 @@
 # V_EditorClassic
 
 This is a simple pre-Windows 11 notepad clone written in .NET 2.0. To use this program, you need to have .NET 2.0 installed.
+![veditorproicon2](https://github.com/abrendan/V_EditorClassic/assets/94894839/0c08069f-806d-49dc-8f39-7ae595941a66)
 
 ## Features
 
